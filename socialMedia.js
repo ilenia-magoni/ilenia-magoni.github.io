@@ -34,4 +34,14 @@ export const socialMedia = [
     name: 'Postcrossing',
     fontAwesome: 'fa-solid fa-envelopes-bulk',
   },
+  {
+    link: 'https://www.linkedin.com/in/ilenia-m-5901a6216/',
+    name: 'linkedin',
+    fontAwesome: 'fa-brands fa-linkedin',
+  },
+  {
+    link: 'https://codepen.io/nethleen',
+    name: 'Codepen',
+    fontAwesome: 'fa-brands fa-codepen',
+  },
 ];
