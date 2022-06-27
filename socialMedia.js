@@ -44,4 +44,24 @@ export const socialMedia = [
     name: 'Codepen',
     fontAwesome: 'fa-brands fa-codepen',
   },
+  {
+    link: 'https://steamcommunity.com/profiles/76561198123312343/',
+    name: 'Steam',
+    fontAwesome: 'fa-brands fa-steam',
+  },
+  {
+    link: 'https://ko-fi.com/ieahleen',
+    name: 'Ko-fi',
+    fontAwesome: 'fa-solid fa-coffee',
+  },
+  {
+    link: 'https://www.freecodecamp.org/ieahleen',
+    name: 'freeCodeCamp',
+    fontAwesome: 'fa-brands fa-free-code-camp',
+  },
+  {
+    link: 'https://forum.freecodecamp.org/u/ilenia/',
+    name: 'freeCodeCamp Forum',
+    fontAwesome: 'fa-brands fa-free-code-camp',
+  },
 ];

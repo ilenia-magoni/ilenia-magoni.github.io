@@ -38,6 +38,8 @@ h1 {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  max-width: 80vw;
+  margin: auto;
 }
 
 .project-tile i {
