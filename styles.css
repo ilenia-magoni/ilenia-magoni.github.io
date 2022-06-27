@@ -1,0 +1,24 @@
+.focus {
+  color: green;
+  font-size: 1.5em;
+}
+.paused {
+  color: grey;
+  font-size: 0.5em;
+}
+footer {
+  display: flex;
+}
+
+#welcome-section {
+  box-sizing: border-box;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#projects-section {
+  box-sizing: border-box;
+  min-height: 100vh;
+}
