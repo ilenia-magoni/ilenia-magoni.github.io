@@ -64,4 +64,13 @@ export const socialMedia = [
     name: 'freeCodeCamp Forum',
     fontAwesome: 'fa-brands fa-free-code-camp',
   },
+  {
+    link: 'https://archiveofourown.org/users/Ieahleen',
+    name: 'AO3',
+  },
+  { link: 'https://replit.com/@Ieahleen', name: 'Replit' },
+  {
+    link: 'https://efpfanfic.net/viewuser.php?uid=59565',
+    name: 'EFP Fanfiction',
+  },
 ];

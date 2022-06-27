@@ -17,7 +17,9 @@ const internetPresence = document.querySelector('#internet-presence');
 shuffle(socialMedia);
 socialMedia.forEach(({ link, name, fontAwesome }) => {
   const div = document.createElement('div');
-  div.innerHTML = `<a href="${link}" title="${name}" target="_blank"><i class="${fontAwesome}"></i></a>`;
+  div.innerHTML = `<a href="${link}" title="${name}" target="_blank"><i class="${
+    fontAwesome || 'fa-solid fa-question'
+  }"></i></a>`;
   div.classList.add('social-tile');
   internetPresence.append(div);
 });
