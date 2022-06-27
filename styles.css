@@ -10,6 +10,10 @@ footer {
   display: flex;
 }
 
+h1 {
+  text-align: center;
+}
+
 #welcome-section {
   box-sizing: border-box;
   height: 100vh;
@@ -27,7 +31,16 @@ footer {
   align-items: center;
 }
 
-i {
+#internet-presence {
+  box-sizing: border-box;
+  min-height: 25vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.project-tile i {
   font-size: 4rem;
 }
 
@@ -41,7 +54,19 @@ i {
   box-shadow: 10px 6px 7px -3px rgba(0, 0, 0, 0.39);
 }
 
-.project-tile:hover {
+.project-tile:hover,
+.social-tile:hover {
   -webkit-box-shadow: 10px 6px 10px -3px rgba(0, 0, 0, 0.83);
   box-shadow: 10px 6px 10px -3px rgba(0, 0, 0, 0.83);
+}
+
+.social-tile {
+  text-align: center;
+  border: solid 1px black;
+  border-radius: 15px;
+  margin: 15px;
+  padding: 15px;
+  -webkit-box-shadow: 10px 6px 7px -3px rgba(0, 0, 0, 0.39);
+  box-shadow: 10px 6px 7px -3px rgba(0, 0, 0, 0.39);
+  font-size: 2em;
 }
