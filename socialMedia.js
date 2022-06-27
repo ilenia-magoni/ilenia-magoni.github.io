@@ -73,4 +73,5 @@ export const socialMedia = [
     link: 'https://efpfanfic.net/viewuser.php?uid=59565',
     name: 'EFP Fanfiction',
   },
+  { link: 'https://www.fanfiction.net/u/4801250/', name: 'Fanfiction' },
 ];
