@@ -21,4 +21,27 @@ footer {
 #projects-section {
   box-sizing: border-box;
   min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+i {
+  font-size: 4rem;
+}
+
+.project-tile {
+  text-align: center;
+  border: solid 1px black;
+  border-radius: 15px;
+  margin: 15px;
+  padding: 15px;
+  -webkit-box-shadow: 10px 6px 7px -3px rgba(0, 0, 0, 0.39);
+  box-shadow: 10px 6px 7px -3px rgba(0, 0, 0, 0.39);
+}
+
+.project-tile:hover {
+  -webkit-box-shadow: 10px 6px 10px -3px rgba(0, 0, 0, 0.83);
+  box-shadow: 10px 6px 10px -3px rgba(0, 0, 0, 0.83);
 }
