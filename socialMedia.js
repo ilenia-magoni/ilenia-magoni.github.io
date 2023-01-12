@@ -5,11 +5,6 @@ export const socialMedia = [
     fontAwesome: 'fa-brands fa-twitter',
   },
   {
-    link: 'https://habitica.com/profile/c073342f-4a65-4a13-9ffd-9e7fa5410d6b',
-    name: 'Habitica',
-    fontAwesome: 'fa-solid fa-dragon',
-  },
-  {
     link: 'https://twitter.com/copper_berry',
     name: "Guinea Pig's Twitter",
     fontAwesome: 'fa-solid fa-paw',
