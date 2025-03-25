@@ -1,21 +1,11 @@
 export const socialMedia = [
   {
-    link: 'https://twitter.com/ieahleen',
-    name: 'Twitter',
-    fontAwesome: 'fa-brands fa-twitter',
-  },
-  {
-    link: 'https://twitter.com/copper_berry',
-    name: "Guinea Pig's Twitter",
-    fontAwesome: 'fa-solid fa-paw',
-  },
-  {
     link: 'https://en.pronouns.page/@ieahleen',
     name: 'Pronouns.page',
     fontAwesome: 'fa-solid fa-transgender',
   },
   {
-    link: 'https://github.com/ieahleen',
+    link: 'https://github.com/ilenia-magoni',
     name: 'GitHub',
     fontAwesome: 'fa-brands fa-github',
   },
@@ -25,7 +15,7 @@ export const socialMedia = [
     fontAwesome: 'fa-solid fa-dice-d20',
   },
   {
-    link: 'https://www.postcrossing.com/user/Ieahleen',
+    link: 'https://www.postcrossing.com/user/ilenia',
     name: 'Postcrossing',
     fontAwesome: 'fa-solid fa-envelopes-bulk',
   },
@@ -50,7 +40,7 @@ export const socialMedia = [
     fontAwesome: 'fa-solid fa-coffee',
   },
   {
-    link: 'https://www.freecodecamp.org/ieahleen',
+    link: 'https://www.freecodecamp.org/ilenia-magoni',
     name: 'freeCodeCamp',
     fontAwesome: 'fa-brands fa-free-code-camp',
   },
